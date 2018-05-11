@@ -162,3 +162,15 @@ C:\Users\taylorgp\Source\Repos\Portfolio\Portfolio\bin\Microsoft.Owin.Security.M
 C:\Users\taylorgp\Source\Repos\Portfolio\Portfolio\obj\Debug\Portfolio.csprojResolveAssemblyReference.cache
 C:\Users\taylorgp\Source\Repos\Portfolio\Portfolio\obj\Debug\Portfolio.dll
 C:\Users\taylorgp\Source\Repos\Portfolio\Portfolio\obj\Debug\Portfolio.pdb
+C:\Users\taylorgp\Source\Repos\Portfolio\Portfolio\bin\BundleTransformer.Core.dll
+C:\Users\taylorgp\Source\Repos\Portfolio\Portfolio\bin\BundleTransformer.Less.dll
+C:\Users\taylorgp\Source\Repos\Portfolio\Portfolio\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\taylorgp\Source\Repos\Portfolio\Portfolio\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\taylorgp\Source\Repos\Portfolio\Portfolio\bin\MsieJavaScriptEngine.dll
+C:\Users\taylorgp\Source\Repos\Portfolio\Portfolio\bin\JavaScriptEngineSwitcher.Core.xml
+C:\Users\taylorgp\Source\Repos\Portfolio\Portfolio\bin\JavaScriptEngineSwitcher.Msie.xml
+C:\Users\taylorgp\Source\Repos\Portfolio\Portfolio\bin\MsieJavaScriptEngine.xml
+C:\Users\taylorgp\Source\Repos\Portfolio\Portfolio\bin\ru-ru\BundleTransformer.Core.resources.dll
+C:\Users\taylorgp\Source\Repos\Portfolio\Portfolio\bin\ru-ru\BundleTransformer.Less.resources.dll
+C:\Users\taylorgp\Source\Repos\Portfolio\Portfolio\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\taylorgp\Source\Repos\Portfolio\Portfolio\bin\ru-ru\MsieJavaScriptEngine.resources.dll
